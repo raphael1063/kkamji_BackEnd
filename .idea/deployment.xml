@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="newApp">
+    <serverData>
+      <paths name="newApp">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/android" local="$PROJECT_DIR$" web="http://13.124.111.245/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
